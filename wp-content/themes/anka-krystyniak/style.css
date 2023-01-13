@@ -1,0 +1,18 @@
+/*!
+Theme Name: anka-krystyniak
+Theme URI: https://puzzlestudio.eu/
+Author: Puzzle studio
+Author URI: https://puzzlestudio.eu/
+Description: Custom WP theme
+Version: 2.6.0
+Tested up to: 8.1
+Requires PHP: 8.1
+Text Domain: anka-krystyniak
+*/
+
+
+#omnibus-price-data{
+    display: block;
+    padding: 20px var(--ak-main-spacing);
+    text-align: right;
+}
